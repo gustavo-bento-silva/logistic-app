@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://projetoteste-cbe56.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">804294172146</string>
+  <string name="google_storage_bucket" translatable="false">projetoteste-cbe56.appspot.com</string>
+  <string name="project_id" translatable="false">projetoteste-cbe56</string>
+  <string name="google_api_key" translatable="false">AIzaSyDy5h8NoLQ8hernpWVkTnYLeaFFy81CbU0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDy5h8NoLQ8hernpWVkTnYLeaFFy81CbU0</string>
+  <string name="google_app_id" translatable="false">1:804294172146:android:991c3152e3071e5a</string>
+  <string name="default_web_client_id" translatable="false">804294172146-gfc7ek4fs1ri3jm21g9f108658l6vv5v.apps.googleusercontent.com</string>
+</resources>
